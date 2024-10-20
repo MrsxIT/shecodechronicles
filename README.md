@@ -1,4 +1,4 @@
-###### 📚 She Code Chronicles 📚
+# 📚 She Code Chronicles 📚
 
 ---
 >Once upon a time, there was a girl who discovered that she actually quite enjoyed tech and being able to do things that others couldn't. She discovered a skill she did not know she had and decided to explore it a little more...
