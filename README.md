@@ -1,7 +1,13 @@
 # 📚 She Code Chronicles 📚
 
 ---
-## Welcome to the She Code Chronicles! My aim for this repository is to allow you to get to know the 'she' behind the 'code'. I hope you enjoy reading (& hopefully learning!) along with me. 
+
+  <p align="center">
+Welcome to the She Code Chronicles!<br>
+
+My aim for this repository is to allow you to get to know the 'she' behind the 'code'. I hope you enjoy reading (& hopefully learning!) along with me.
+  </p>
+  
 ---
 
 <table>
