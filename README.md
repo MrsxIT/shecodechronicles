@@ -1,13 +1,21 @@
 # 📚 She Code Chronicles 📚
 
 ---
-<table><tr><td>
-<p align="center">
-Once upon a time, there was a girl who discovered that she actually quite enjoyed tech and being able to do things that others couldn't. She discovered a skill she did not know she had and decided to explore it a little more... 
-& so MrsxIT was born! 👶
-Welcome to the She Code Chronicles! My aim for this repository is to allow you to get to know the 'she' behind the 'code'. I hope you enjoy reading (& hopefully learning!) along with me.
+## Welcome to the She Code Chronicles! My aim for this repository is to allow you to get to know the 'she' behind the 'code'. I hope you enjoy reading (& hopefully learning!) along with me. 
+---
 
-*MrsxIT x*</td></tr></table></p>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+Once upon a time, there was a girl who discovered that she actually quite enjoyed tech and being able to do things that others couldn't. She discovered a skill she did not know she had and decided to explore it a little more... <br>
+& so MrsxIT was born! 👶 <br>
+
+*MrsxIT x*
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ---
