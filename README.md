@@ -37,6 +37,7 @@ I have been using Virtual Studio Code to edit my respositories, but am also lear
 
 I have been doing some practicing on html to get me started and to try and understand how syntax works, I have got to a point where I can use html to format a very basic webpage but still have a lot to learn as well as getting used to CSS.
 This was my first project, which I completed by doing an introduction course through Code Academy!
+
 ![Photo of HTML for GitHub](https://github.com/user-attachments/assets/6beaf455-d176-4541-8a47-743fa01e796c)
 
 I still have a long way to go as this is a very simple example of what can be done with html, so I am going to explore html further and make sure I fully understand and can use this without needing to ask questions or refer back to anything and then I intend on learning some CSS too!
