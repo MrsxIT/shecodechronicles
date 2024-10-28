@@ -32,6 +32,12 @@ I have been using Virtual Studio Code to edit my respositories, but am also lear
 
 ## Welcome to my journey and feel free to look around my repositories!
 
+---
+## Chapter Two
+
+I have been doing some practicing on html to get me started and to try and understand how syntax works, I have got to a point where I can use html to format a very basic webpage but still have a lot to learn as well as getting used to CSS.
+This was my first project, which I completed by doing an introduction course through Code Academy!
+
 ➡️ If you would like to contribute, then please feel free
 
 ➡️ Please ensure you read the license and README file
