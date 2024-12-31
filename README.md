@@ -43,8 +43,16 @@ This was my first project, which I completed by doing an introduction course thr
 I still have a long way to go as this is a very simple example of what can be done with html, so I am going to explore html further and make sure I fully understand and can use this without needing to ask questions or refer back to anything and then I intend on learning some CSS too!
 
 ---
+## Chapter Three
 
-➡️ If you would like to contribute, then please feel free
+I have been working on my coding skills a little more and have learnt more about SQL and Python, I absolutely love SQL for the use of database management but I have to admit I got a little bored learning it each day so I decided to give Python a go and FELL IN LOVE!
+I have had so much fun learning Python and have got to a level where I can start to read more advanced code that others have written but am not capable of writing anything worthwhile yet!
+I am following a beginners book at the moment, and once I feel confident with this I intend of moving up to intermediate and one day... Advanced!
+If you have any hints or tips for learning Python - please send them my way!
+
+---
+
+➡️ If you would like to contribute to any files, then please feel free
 
 ➡️ Please ensure you read the license and README file
 
