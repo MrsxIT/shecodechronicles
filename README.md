@@ -9,5 +9,8 @@ Please feel free to browse my repository's and explore my amateur coding skills 
     </td>
   </tr>
 </table>
+
 ---
- ** Please read the READ ME files and licensing! **
+ *Please read the READ ME files and licensing!*
+---
+
